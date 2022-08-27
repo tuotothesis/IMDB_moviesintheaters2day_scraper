@@ -1,3 +1,3 @@
  Semester Taken: 2022 FALL
  
- Explores relationships between new information and communication technologies and organizational efforts to define, identify, control, manage, and preserve records. Considers the importance of organizational, institutional and technological factors in determining appropriate recordkeeping strategies.
+ Design and implementation of basic database systems. Semantic modeling, relational database theory, including normalization, indexing, and query construction, SQL. 
